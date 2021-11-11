@@ -1,2 +1,2 @@
 # baemon-landing-1
-Template baemon landing 2 -
+Template baemon landing 1 -
